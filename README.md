@@ -14,7 +14,7 @@
 
 This repository contains an end-to-end data science project for predicting a person's smoking status from health and lifestyle records. It documents the work in three complementary notebooks: exploratory analysis, explanatory analysis, and the final modeling workflow.
 
-The project keeps the original data, a generated input sample, exported notebook reports, and the code used to create additional data for experimentation in one place.
+The project keeps the original data, a generated input sample, and the code used to create additional data for experimentation in one place.
 
 ## Contents
 
@@ -41,7 +41,7 @@ The project keeps the original data, a generated input sample, exported notebook
 ├── Data.csv                          # Source health-record dataset
 ├── your_data.csv                     # Additional generated input data
 ├── generate_data.py                  # Data-generation helper
-└── *_out.pdf                         # Exported notebook reports
+└── README.md                          # Project guide
 ```
 
 ## Getting Started
@@ -73,7 +73,7 @@ Then open the notebooks in the suggested order:
 
 ## Notes
 
-This is an academic machine-learning project. Results depend on the available data and preprocessing choices, and should not be used as medical advice or a diagnostic tool.
+Results depend on the available data and preprocessing choices, and should not be used as medical advice or a diagnostic tool.
 
 ## Author
 
